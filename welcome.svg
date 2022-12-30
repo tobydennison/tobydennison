@@ -4,6 +4,7 @@
       <style>
         .container {
           width: 100%;
+          font-family: sans-serif;
         }
         
         #favourite-areas ul {
