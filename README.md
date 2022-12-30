@@ -1,5 +1,3 @@
 <div style="width: 100%;">
-  <a href="welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
+    <img src="favourite-areas-list.svg" style="width: 100%;" alt="An icon list of Toby's favourite areas: web development, cloud computing, interaction design.">
 </div>
